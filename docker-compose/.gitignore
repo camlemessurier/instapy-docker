@@ -4,3 +4,5 @@ InstaPy
 
 # Geckodriver log file
 geckodriver.log
+
+docker_quickstart.py
